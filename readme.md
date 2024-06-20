@@ -36,7 +36,7 @@ I'm Revan Pratama who passionate backend developer from Jakarta, and I'm all abo
 
 ### 💡 Top Projects
 
-- [**Awesome Project 1**](https://github.com/revanp/ecc-rsa-zkp) - This project aims to compare the security and performance of RSA (Rivest-Shamir-Adleman) and ECC (Elliptic Curve Cryptography) cryptographic algorithms, focusing on their implementations with Zero Knowledge Proofs (ZKP).
+- [**ECC RSA ZKP**](https://github.com/revanp/ecc-rsa-zkp) - This project aims to compare the security and performance of RSA (Rivest-Shamir-Adleman) and ECC (Elliptic Curve Cryptography) cryptographic algorithms, focusing on their implementations with Zero Knowledge Proofs (ZKP).
 
 ### 🧑‍💻 About Me
 
