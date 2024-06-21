@@ -20,7 +20,7 @@ I'm Revan Pratama who passionate backend developer from Jakarta, and I'm all abo
 
 ### 📚 Currently Learning
 
-- Advanced Kubernetes orchestration
+- Rust!
 - Microservices architecture
 - Deep dive into Flutter for mobile development
 
