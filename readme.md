@@ -30,10 +30,6 @@ I'm Revan Pratama who passionate backend developer from Jakarta, and I'm all abo
 - **X:** https://x.com/musuhphp
 - **Email:** revanp0@gmail.com
 
-### 🏆 GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=revanp&show_icons=true&theme=radical)
-
 ### 💡 Top Projects
 
 - [**ECC RSA ZKP**](https://github.com/revanp/ecc-rsa-zkp) - This project aims to compare the security and performance of RSA (Rivest-Shamir-Adleman) and ECC (Elliptic Curve Cryptography) cryptographic algorithms, focusing on their implementations with Zero Knowledge Proofs (ZKP).
