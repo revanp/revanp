@@ -7,7 +7,7 @@ I'm Revan Pratama who passionate backend developer from Jakarta, and I'm all abo
 ### 🚀 Skills & Technologies
 
 - **Backend Frameworks:** Laravel, Hyperf, Node.js, Express.js, CodeIgniter, CakePHP, Python, GO
-- **Frontend Frameworks:** React.js, Next.js, Flutter, UMI Js
+- **Frontend Frameworks:** React.js, Next.js, Flutter, Umi.js
 - **DevSecOps:** Docker, Kubernetes, CI/CD, Server (Ubuntu, CentOS)
 - **Web Servers:** Apache, Nginx
 - **Special:** Swoole
