@@ -2,7 +2,7 @@
 <br>
 <h3 align="center">Do you know me? No? Okay, let me introduce myself then 👋🏻</h3>
 <br>
-<img src="https://media.giphy.com/media/fTI9mBoWLef8k/giphy.gif?cid=ecf05e47iinoa027xaj22mp4lmv4rof9bz2x3kop2601j0ds&ep=v1_gifs_search&rid=giphy.gif&ct=g" align="right" width="250px">
+<p align="center"><img src="https://media.giphy.com/media/fTI9mBoWLef8k/giphy.gif?cid=ecf05e47iinoa027xaj22mp4lmv4rof9bz2x3kop2601j0ds&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="250px"></p>
 <p>
   Well, hello! 👋🏻
   
