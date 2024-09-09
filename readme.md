@@ -6,7 +6,9 @@
 <p>
   Well, hello! 👋🏻
   
-  I'm Revan Pratama, currently working on many stacks, but especially Web Development. For the details you can see it below 👇🏻
+  I'm Revan Pratama, currently working on many stacks, but especially Web Development. 
+  
+  For the details you can see it below 👇🏻
 </p>
 
 <h3>My Work Mates 💼</h3>
