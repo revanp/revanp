@@ -1,6 +1,4 @@
-<h1 align="center">Hi, Revan Pratama here! 🤗</h1>
-<h3 align="center">Do you know me? No? Okay, let me introduce myself then 👋🏻</h3>
-<br>
+<h1 align="center">Hi, Revan Pratama here! 👋🏻</h1>
 <p align="center"><img src="https://media.giphy.com/media/fTI9mBoWLef8k/giphy.gif?cid=ecf05e47iinoa027xaj22mp4lmv4rof9bz2x3kop2601j0ds&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="250px"></p>
 <p>
   Well, hello! 👋🏻
