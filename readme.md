@@ -33,6 +33,11 @@
 - Loving you (ignore this 💔)
 - Project Development Life Cycle
 
+<h3>My Fav Personal Project ❤️</h3>
+
+- <a href="https://github.com/revanp/ecc-rsa-zkp" target="_BLANK">ECC RSA ZKP</a>
+- <a href="https://github.com/revanp/leetcode-challenges" target="_BLANK">Leetcode Challenges</a>
+
 <h2>ANYWAY, I'M OPEN TO COLLABORATING! 🥳</h2>
 
 <p><strong>YES, THAT'S RIGHT! YOU CAN REACH ME BY SENDING ME AN EMAIL TO <a href="mailto:revanp0@gmail.com">revanp0@gmail.com</a></strong></p>
