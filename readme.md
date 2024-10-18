@@ -1,12 +1,11 @@
 <h1 align="center">Hi, Revan Pratama here! 👋🏻</h1>
 <p align="center"><img src="https://media.giphy.com/media/fTI9mBoWLef8k/giphy.gif?cid=ecf05e47iinoa027xaj22mp4lmv4rof9bz2x3kop2601j0ds&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="250px"></p>
+<h3>Well, hello! 👋🏻</h3>
 <p>
-  Well, hello! 👋🏻
-  
   I'm Revan Pratama, currently working on many stacks, but especially Web Development. 
-  
-  For the details you can see it below 👇🏻
 </p>
+
+<p>For the details you can see it below 👇🏻</p>
 
 <h3>My Work Mates 💼</h3>
 
