@@ -11,6 +11,9 @@
 
 - Next js (For sure! ✨)
 - Umi js (Kinda weird, but still love this one ❤️)
+- Nest js (Battery-packed Backend Framework)
+- Remix (ASJOBFSIBIJA) (cant describe this framework, coz this is so goooood 😲)
+- Nuxt js (well, anyone also use this, right?)
 - Laravel (The classic 🫡)
 - Hyperf (THE FASTEST PHP EVER 🚀)
 
