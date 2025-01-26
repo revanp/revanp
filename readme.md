@@ -19,6 +19,9 @@
   <li>🎭 <strong>Nuxt.js</strong>: Well, anyone also use this, right?</li>
   <li>🛠️ <strong>Laravel</strong>: The classic 🫡</li>
   <li>🚀 <strong>Hyperf</strong>: THE FASTEST PHP EVER</li>
+  <li>📱 <strong>Flutter</strong>: Cross-platform magic</li>
+  <li>🍎 <strong>Swift</strong>: Clean and powerful</li>
+  <li>🤖 <strong>Kotlin</strong>: Jetpack-approved 🚀</li>
 </ul>
 
 ---
@@ -28,7 +31,6 @@
   <li>🐍 <strong>Python</strong>: Rawr</li>
   <li>💨 <strong>Go</strong>: Fast and fun</li>
   <li>🦀 <strong>Rust</strong>: WKWKWKWKWKWK</li>
-  <li>📱 <strong>Flutter</strong>: Cross-platform magic</li>
   <li>☕️ <strong>Java</strong>: Classic vibes</li>
 </ul>
 
