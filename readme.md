@@ -12,7 +12,7 @@
 
 <h3>💼 My Work Mates</h3>
 <ul>
-  <li>⚡ <strong>Next.js</strong>: For sure! ✨</li>
+  <li>⚡ <strong>Next.js</strong>: For sure! ✨ (You know, this framework is slowly killing my laptop 🤣)</li>
   <li>🔮 <strong>Umi.js</strong>: Kinda weird, but still love this one ❤️</li>
   <li>🔋 <strong>Nest.js</strong>: Battery-packed backend framework</li>
   <li>🌟 <strong>Remix</strong>: Can't describe this framework, it's just so good 😲</li>
