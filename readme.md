@@ -75,3 +75,9 @@
 ---
 
 <h3 align="center">✨ Let's create something amazing together! ✨</h3>
+
+--- 
+<h3>⏰ My Stats</h3>
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=fb6ff42c-c4aa-4dc7-82b3-4b7be025113f&layout=compact" alt="My WakaTime Stats"/>
+</p>
