@@ -8,6 +8,14 @@
  */
 -->
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=160&section=header&text=Revan%20Pratama&fontSize=48&fontColor=fff&animation=fadeIn&fontAlignY=45" width="100%">
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=818CF8&center=true&vCenter=true&width=600&lines=Tech+Lead+%40+Usaha+Kreatif+Indonesia;Ops+%26+Tech+Manager+%40+Find+My+Home;Fullstack+%C2%B7+Mobile+%C2%B7+AI+%C2%B7+DevOps;%F0%9F%9F%A2+Open+to+Work" alt="Typing SVG">
+</p>
+
+<br>
+
 <h1><code>whoami</code></h1>
 
 ```ts
@@ -35,7 +43,7 @@ const revan = {
 };
 ```
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6&height=2" width="100%">
 
 <h1><code>skills</code></h1>
 
@@ -104,7 +112,7 @@ other:
   - Product & Project Lifecycle Management
 ```
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6&height=2" width="100%">
 
 <h1><code>projects</code></h1>
 
@@ -123,7 +131,7 @@ other:
 ]
 ```
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6&height=2" width="100%">
 
 <h1><code>reach_me</code></h1>
 
@@ -136,8 +144,10 @@ open  https://x.com/musuhphp
 email revanp0@gmail.com
 ```
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6&height=2" width="100%">
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=revanp&style=for-the-badge&color=blueviolet" alt="Profile Views">
 </p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=100&section=footer" width="100%">
