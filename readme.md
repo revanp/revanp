@@ -47,22 +47,9 @@ const revan = {
 };
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6&height=2" width="100%">
+---
 
 <h1><code>skills</code></h1>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,python,go,rust,php,swift,kotlin,c,dart" />
-</p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,nuxtjs,remix,react,nestjs,laravel,express,flutter" />
-</p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=tailwind,postgres,mysql,mongodb,redis,docker,kubernetes,nginx" />
-</p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,github,git,vscode,figma" />
-</p>
 
 ```yaml
 languages:
@@ -129,26 +116,7 @@ other:
   - Product & Project Lifecycle Management
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6&height=2" width="100%">
-
-<h1><code>projects</code></h1>
-
-```json
-[
-  {
-    "name": "ECC RSA ZKP",
-    "url": "https://github.com/revanp/ecc-rsa-zkp",
-    "desc": "Comparing RSA & ECC security/performance with Zero Knowledge Proofs"
-  },
-  {
-    "name": "Leetcode Challenges",
-    "url": "https://github.com/revanp/leetcode-challenges",
-    "desc": "My ongoing DSA journey"
-  }
-]
-```
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6&height=2" width="100%">
+---
 
 <h1><code>reach_me</code></h1>
 
