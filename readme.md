@@ -8,9 +8,9 @@
  */
 -->
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=818CF8&center=true&vCenter=true&width=620&lines=hey%2C+i'm+revan+pratama+%F0%9F%91%8B;tech+lead+%40+usaha+kreatif+indonesia;ops+%26+tech+manager+%40+find+my+home;fullstack+%C2%B7+mobile+%C2%B7+ai+%C2%B7+devops;%F0%9F%9F%A2+open+to+work" alt="Typing SVG">
-</p>
+```ts
+// fullstack engineer. tech lead. open to work. jakarta.
+```
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=revanp&style=flat-square&color=818cf8&label=views" alt="Profile Views">
