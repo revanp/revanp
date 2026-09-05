@@ -8,10 +8,14 @@
  */
 -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=160&section=header&text=Revan%20Pratama&fontSize=48&fontColor=fff&animation=fadeIn&fontAlignY=45" width="100%">
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=818CF8&center=true&vCenter=true&width=620&lines=hey%2C+i'm+revan+pratama+%F0%9F%91%8B;tech+lead+%40+usaha+kreatif+indonesia;ops+%26+tech+manager+%40+find+my+home;fullstack+%C2%B7+mobile+%C2%B7+ai+%C2%B7+devops;%F0%9F%9F%A2+open+to+work" alt="Typing SVG">
+</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=818CF8&center=true&vCenter=true&width=600&lines=Tech+Lead+%40+Usaha+Kreatif+Indonesia;Ops+%26+Tech+Manager+%40+Find+My+Home;Fullstack+%C2%B7+Mobile+%C2%B7+AI+%C2%B7+DevOps;%F0%9F%9F%A2+Open+to+Work" alt="Typing SVG">
+  <img src="https://komarev.com/ghpvc/?username=revanp&style=flat-square&color=818cf8&label=views" alt="Profile Views">
+  <img src="https://img.shields.io/badge/Jakarta%2C%20Indonesia-🇮🇩-818cf8?style=flat-square" alt="Location">
+  <img src="https://img.shields.io/badge/status-open%20to%20work-22c55e?style=flat-square" alt="Status">
 </p>
 
 <br>
@@ -46,6 +50,19 @@ const revan = {
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6&height=2" width="100%">
 
 <h1><code>skills</code></h1>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,python,go,rust,php,swift,kotlin,c,dart" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nextjs,nuxtjs,remix,react,nestjs,laravel,express,flutter" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=tailwind,postgres,mysql,mongodb,redis,docker,kubernetes,nginx" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,github,git,vscode,figma" />
+</p>
 
 ```yaml
 languages:
@@ -143,11 +160,3 @@ open  https://linkedin.com/in/revanp0
 open  https://x.com/musuhphp
 email revanp0@gmail.com
 ```
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6&height=2" width="100%">
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=revanp&style=for-the-badge&color=blueviolet" alt="Profile Views">
-</p>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=100&section=footer" width="100%">
