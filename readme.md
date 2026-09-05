@@ -12,11 +12,6 @@
 // fullstack engineer. tech lead. open to work. jakarta.
 ```
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=revanp&style=flat-square&color=818cf8&label=views" alt="Profile Views">
-  <img src="https://img.shields.io/badge/Jakarta%2C%20Indonesia-🇮🇩-818cf8?style=flat-square" alt="Location">
-  <img src="https://img.shields.io/badge/status-open%20to%20work-22c55e?style=flat-square" alt="Status">
-</p>
 
 <br>
 
