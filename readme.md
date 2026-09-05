@@ -141,6 +141,3 @@ email revanp0@gmail.com
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=revanp&style=for-the-badge&color=blueviolet" alt="Profile Views">
 </p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=fb6ff42c-c4aa-4dc7-82b3-4b7be025113f&layout=compact" alt="WakaTime Stats">
-</p>
