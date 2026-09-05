@@ -13,8 +13,6 @@
 ```
 
 
-<br>
-
 <h1><code>whoami</code></h1>
 
 ```ts
