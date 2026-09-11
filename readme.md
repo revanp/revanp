@@ -45,6 +45,7 @@ const revan = {
 <h1><code>career_highlights</code></h1>
 
 ```yaml
+experience: "8+ years in software engineering (since March 2018)"
 ```,StartLine:42,TargetContent:
 
 ```yaml
