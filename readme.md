@@ -42,7 +42,10 @@ const revan = {
 
 ---
 
-<h1><code>skills</code></h1>
+<h1><code>career_highlights</code></h1>
+
+```yaml
+```,StartLine:42,TargetContent:
 
 ```yaml
 languages:
