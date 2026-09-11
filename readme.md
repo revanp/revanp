@@ -46,6 +46,7 @@ const revan = {
 
 ```yaml
 experience: "8+ years in software engineering (since March 2018)"
+team_leadership: "Leading 14 engineering team members (12 Developers & 2 QA Engineers)"
 ```,StartLine:42,TargetContent:
 
 ```yaml
