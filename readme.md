@@ -48,7 +48,11 @@ const revan = {
 experience: "8+ years in software engineering (since March 2018)"
 team_leadership: "Leading 14 engineering team members (12 Developers & 2 QA Engineers)"
 core_expertise : "Cloud DevOps, Fullstack Web & Mobile Development, System Architecture"
-```,StartLine:42,TargetContent:
+```
+
+---
+
+<h1><code>skills</code></h1>
 
 ```yaml
 languages:
